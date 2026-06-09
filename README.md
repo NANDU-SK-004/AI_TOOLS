@@ -11,7 +11,7 @@ A curated collection of AI tools, and practical use cases explored through the A
 | 4 | Suno AI | AI for Creativity | AI-powered music generation from text prompts | https://suno.com |
 | 5 | Adobe Firefly | AI for Creativity | AI image generation, generative fill, and creative content creation | https://firefly.adobe.com |
 | 6 | Figma AI | Design & UI/UX | AI-assisted UI/UX design, prototyping, content generation, and design workflows | https://www.figma.com/ai |
-| 7 | Feedough AI | AI Discovery & Resources | AI tool discovery, startup insights, and AI resource exploration | https://feedough.com |
+| 7 | Feedough AI | AI Discovery & Resources | AI tool discovery, startup insights, and AI resource exploration, Prompt Enhancer | https://feedough.com |
 | 8 | Codex | Coding & Development | Code generation, debugging, automation, and software development assistance | https://openai.com/codex |
 | 9 | Google AI Studio | AI Development & Experimentation | Prompt engineering, model testing, API experimentation, and AI application development | https://aistudio.google.com |
 | 10 | Kimi AI | Research & Learning | Long-context document analysis, research, and knowledge management | https://kimi.com |
