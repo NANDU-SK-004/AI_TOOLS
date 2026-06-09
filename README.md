@@ -14,7 +14,7 @@ A curated collection of AI tools, and practical use cases explored through the A
 | 7 | Feedough AI | AI Discovery & Resources | AI tool discovery, startup insights, and AI resource exploration, Prompt Enhancer | https://feedough.com |
 | 8 | Codex | Coding & Development | Code generation, debugging, automation, and software development assistance | https://openai.com/codex |
 | 9 | Google AI Studio | AI Development & Experimentation | Prompt engineering, model testing, API experimentation, and AI application development | https://aistudio.google.com |
-| 10 | Kimi AI | Research & Learning | Long-context document analysis, research, and knowledge management | https://kimi.com |
+| 10 | Kimi AI | Research & Learning, Presentations & Content Creation | Long-context document analysis, research, and knowledge management, Presentation maker| https://kimi.com |
 | 11 | Gamma AI | Presentations & Content Creation | AI-powered presentations, documents, websites, and visual storytelling | https://gamma.app |
 | 12 | NotebookLM | Research & Learning | Source-grounded learning, podcasts, flashcards, reports, quizzes, and research assistance | https://notebooklm.google.com |
 | 13 | getmulti.ai | AI Model Comparison | Compare responses across multiple AI models and identify the best output | https://getmulti.ai |
@@ -60,6 +60,7 @@ A curated collection of AI tools, and practical use cases explored through the A
 
 ### 📑 Presentations & Content Creation
 - Gamma AI
+- Kimi AI
 
 ### ⚖️ AI Model Comparison
 - getmulti.ai
