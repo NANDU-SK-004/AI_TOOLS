@@ -1,5 +1,5 @@
 # AI_TOOLS
-A curated collection of AI tools, and practical use cases explored through the AI HUNT challenge : learning one AI tool at a time through consistency and hands-on experimentation.
+A curated collection of AI tools, and practical use cases explored through the AI HUNT challenge : learning one AI tool at a time through consistency and hands-on  experimentation.
 
 # 🚀 AI HUNT – AI Tools Repository
 
